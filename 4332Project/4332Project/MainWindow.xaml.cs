@@ -62,5 +62,9 @@ namespace _4332Project
         {
             new Salakhov_4332().Show();
         }
+        private void GayfullinaButton_Click(object sender, RoutedEventArgs e)
+        {
+            new Gayfullina_4332().Show();
+        }
     }
 }
