@@ -4,17 +4,30 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\user\Desktop\3 КУРС (2)\ИСРПО\4332Group\4332Project\4332Project\obj\Debug\
+=======
+C:\Users\Anwayyyka\Desktop\4332Group\4332Project\4332Project\obj\Debug\
+>>>>>>> d26d324c9e4d54313b23ccbb512a5398139e5182
 _4332Project
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
 C:\Users\user\Desktop\3 КУРС (2)\ИСРПО\4332Group\4332Project\4332Project\App.xaml
 7-837874625
 
 12-479593700
 13-38814620
 MainWindow.xaml;Students\Novikov_4332.xaml;Students\Romanov_4332.xaml;Students\Sayfut4332.xaml;Students\Salakhov_4332.xaml;Students\Sulimov_4332.xaml;Students\Zaripov_4332.xaml;
+=======
+C:\Users\Anwayyyka\Desktop\4332Group\4332Project\4332Project\App.xaml
+8287959432
+
+121146417250
+13152784993
+MainWindow.xaml;Students\Hananov_4332.xaml;Students\Novikov_4332.xaml;Students\Romanov_4332.xaml;Students\Sayfut4332.xaml;Students\Salakhov_4332.xaml;Students\Sulimov_4332.xaml;Students\Zaripov_4332.xaml;
+>>>>>>> d26d324c9e4d54313b23ccbb512a5398139e5182
 
 True
 
